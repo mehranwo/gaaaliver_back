@@ -83,7 +83,7 @@ export function Login(): JSX.Element {
             message={
                 <>
                     Welcome to
-                    <br /> PostHog{preflight?.cloud ? ' Cloud' : ''}!
+                    <br /> gaaaliver{preflight?.cloud ? ' Cloud' : ''}!
                 </>
             }
             footer={<SupportModalButton />}
